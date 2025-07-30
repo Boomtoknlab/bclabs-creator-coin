@@ -1,0 +1,17 @@
+name: bclabs-creator-coin
+id: ari:cloud:compass:2eefe999-d61b-469c-92ef-31fc5e9b3f13:component/ace244a1-3ae8-43fb-8c96-347d12170341/3ac772fb-ea6c-4edf-9f2b-fb15896ad30c
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Boomtoknlab/bclabs-creator-coin
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+  - synced-with-jsm
+customFields: null
